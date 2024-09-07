@@ -12,3 +12,5 @@ def tts(mytext):
         
 
     os.system(f"{mytext}.mp3")
+
+# tts("Salom")
