@@ -3,7 +3,7 @@
 Bu bot sizga yozgan tekstingizni ovozga aylantirib beradi!!! buning uchun unga text yozsangiz bas!!!
 
 ## Xususiyatlar
-- ```/xabar``` deb yozganingizda siz botning admini bilan t`g`ridan to`g`ri
+- ```/xabar``` deb yozganingizda siz botning admini bilan togridan-togri bot orqali gaplasha olasiz
 
 ## Texnologiyalar
 - Python 3.7 yoki undan yuqori versiya
